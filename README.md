@@ -1,4 +1,4 @@
-# ERC Standards & Proposals Cheat-Sheets
+# ERC Standards & Proposals Cheat-Sheet
 
 1. ERC-20: Defines a standard interface for fungible tokens on Ethereum.
 2. ERC-721: Establishes a standard for non-fungible tokens (NFTs) on Ethereum.
